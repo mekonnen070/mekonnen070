@@ -1,6 +1,6 @@
 
 <!-- ### Hi there 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+This+is+Mekonnen!;I+am+a+Software+Engineer...;a+Flutter+Developer...;a+Ux/UI+desingner...;and+a+proud+Ethiopian+🇪🇹.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+This+is+Mekonnen.;I+am+a+Software+Engineer...;a+Flutter+Developer...;a+Ux/UI+desingner...;and+a+proud+Ethiopian+🇪🇹.)](https://git.io/typing-svg)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:Mekonnen070@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/mekonnen-alemu-125b43230/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/mekonnen.alemu.311/)](https://www.facebook.com/mekonnen.alemu.311) [![Twitter Badge](https://img.shields.io/badge/-Twitter-3b5998?style=flat-square&labelColor=3b5998&logo=twitter&logoColor=white&link=https://twitter.com/Mekonnen070)](https://twitter.com/Mekonnen070)

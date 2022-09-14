@@ -30,8 +30,6 @@
 I am a very passionate Flutter developer and UX/UI designer with more than 3 and a half years of experience. I am experienced in creating and developing new features of mobile applications and also very much skillful in shipping them to different groups with high satisfaction. I have good experience in developing sleek performance applications with a well-managed state and pixel-perfect UI/UX implementation. 
 
 
-I am currently working remotely as Flutter Developer at Techawks.io. 
-
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Mekonnen070&theme=react&show_icons=true" />

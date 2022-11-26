@@ -17,7 +17,7 @@
 **Some of the technologies I have worked with**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
-![Vue](https://img.shields.io/badge/-Vue.JS-000000?style=flat&logo=Vue.JS)
+![Augmented Reality](https://img.shields.io/badge/-Augmented%20Reality-000000?style=flat)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
